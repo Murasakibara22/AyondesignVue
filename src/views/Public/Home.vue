@@ -193,84 +193,84 @@
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/01.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/01.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/02.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/02.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/03.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/03.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/04.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/04.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/05.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/05.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/06.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/06.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/01.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/01.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/02.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/02.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/03.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/03.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/04.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/04.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/05.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/05.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
 
       <!-- Item -->
       <div class="swiper-slide py-3">
         <a href="#" class="card card-body card-hover px-2 mx-2">
-          <img src="assets/img/brands/06.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
+          <img src="../assets/img/brands/06.svg" class="d-block mx-auto my-2" width="154" alt="Brand">
         </a>
       </div>
     </div>
@@ -316,13 +316,13 @@
                 </blockquote>
                 <figcaption class="card-footer border-0 d-sm-flex d-md-none w-100 pb-2">
                   <div class="d-flex align-items-center border-end-sm pe-sm-4 me-sm-2">
-                    <img src="assets/img/avatar/01.jpg" width="48" class="rounded-circle" alt="Ralph Edwards">
+                    <img src="../assets/img/avatar/01.jpg" width="48" class="rounded-circle" alt="Ralph Edwards">
                     <div class="ps-3">
                       <h5 class="fw-semibold lh-base mb-0">Ralph Edwards</h5>
                       <span class="fs-sm text-muted">Head of Marketing</span>
                     </div>
                   </div>
-                  <img src="assets/img/brands/01.svg" width="160" class="d-block mt-2 ms-5 mt-sm-0 ms-sm-0" alt="Company logo">
+                  <img src="../assets/img/brands/01.svg" width="160" class="d-block mt-2 ms-5 mt-sm-0 ms-sm-0" alt="Company logo">
                 </figcaption>
               </figure>
             </div>
@@ -335,13 +335,13 @@
                 </blockquote>
                 <figcaption class="card-footer border-0 d-sm-flex d-md-none w-100 pb-2">
                   <div class="d-flex align-items-center border-end-sm pe-sm-4 me-sm-2">
-                    <img src="assets/img/avatar/06.jpg" width="48" class="rounded-circle" alt="Annette Black">
+                    <img src="../assets/img/avatar/06.jpg" width="48" class="rounded-circle" alt="Annette Black">
                     <div class="ps-3">
                       <h5 class="fw-semibold lh-base mb-0">Annette Black</h5>
                       <span class="fs-sm text-muted">Strategic Advisor</span>
                     </div>
                   </div>
-                  <img src="assets/img/brands/02.svg" width="160" class="d-block mt-2 ms-5 mt-sm-0 ms-sm-0" alt="Company logo">
+                  <img src="../assets/img/brands/02.svg" width="160" class="d-block mt-2 ms-5 mt-sm-0 ms-sm-0" alt="Company logo">
                 </figcaption>
               </figure>
             </div>
@@ -354,13 +354,13 @@
                 </blockquote>
                 <figcaption class="card-footer border-0 d-sm-flex d-md-none w-100 pb-2">
                   <div class="d-flex align-items-center border-end-sm pe-sm-4 me-sm-2">
-                    <img src="assets/img/avatar/05.jpg" width="48" class="rounded-circle" alt="Darrell Steward">
+                    <img src="../assets/img/avatar/05.jpg" width="48" class="rounded-circle" alt="Darrell Steward">
                     <div class="ps-3">
                       <h5 class="fw-semibold lh-base mb-0">Darrell Steward</h5>
                       <span class="fs-sm text-muted">Project Manager</span>
                     </div>
                   </div>
-                  <img src="assets/img/brands/04.svg" width="160" class="d-block mt-2 ms-5 mt-sm-0 ms-sm-0" alt="Company logo">
+                  <img src="../assets/img/brands/04.svg" width="160" class="d-block mt-2 ms-5 mt-sm-0 ms-sm-0" alt="Company logo">
                 </figcaption>
               </figure>
             </div>
@@ -392,7 +392,7 @@
         <div id="author-1" class="card bg-transparent border-0 swiper-tab active">
           <div class="card-body p-0 rounded-3 bg-size-cover bg-repeat-0 bg-position-top-center" style="background-image: url(assets/img/testimonials/01.jpg);"></div>
           <div class="card-footer d-flex w-100 border-0 pb-0">
-            <img src="assets/img/brands/01.svg" width="160" class="d-none d-xl-block" alt="Company logo">
+            <img src="../assets/img/brands/01.svg" width="160" class="d-none d-xl-block" alt="Company logo">
             <div class="border-start-xl ps-xl-4 ms-xl-2">
               <h5 class="fw-semibold lh-base mb-0">Ralph Edwards</h5>
               <span class="fs-sm text-muted">Head of Marketing <span class="d-xl-none d-inline">at Lorem Ltd.</span></span>
@@ -404,7 +404,7 @@
         <div id="author-2" class="card bg-transparent border-0 swiper-tab">
           <div class="card-body p-0 rounded-3 bg-size-cover bg-repeat-0 bg-position-top-center" style="background-image: url(assets/img/testimonials/02.jpg);"></div>
           <div class="card-footer d-flex w-100 border-0 pb-0">
-            <img src="assets/img/brands/02.svg" width="160" class="d-none d-xl-block" alt="Company logo">
+            <img src="../assets/img/brands/02.svg" width="160" class="d-none d-xl-block" alt="Company logo">
             <div class="border-start-xl ps-xl-4 ms-xl-2">
               <h5 class="fw-semibold lh-base mb-0">Annette Black</h5>
               <span class="fs-sm text-muted">Strategic Advisor <span class="d-xl-none d-inline">at Company LLC</span></span>
@@ -416,7 +416,7 @@
         <div id="author-3" class="card bg-transparent border-0 swiper-tab">
           <div class="card-body p-0 rounded-3 bg-size-cover bg-repeat-0 bg-position-top-center" style="background-image: url(assets/img/testimonials/03.jpg);"></div>
           <div class="card-footer d-flex w-100 border-0 pb-0">
-            <img src="assets/img/brands/04.svg" width="160" class="d-none d-xl-block" alt="Company logo">
+            <img src="../assets/img/brands/04.svg" width="160" class="d-none d-xl-block" alt="Company logo">
             <div class="border-start-xl ps-xl-4 ms-xl-2">
               <h5 class="fw-semibold lh-base mb-0">Darrell Steward</h5>
               <span class="fs-sm text-muted">Project Manager <span class="d-xl-none d-inline">at Ipsum Ltd.</span></span>
@@ -439,7 +439,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" width="84" height="76" fill="currentColor"><path d="M52.873 59.368c9.856-.312 19.56 1.721 29.317 1.568.935-.074 2.084-1.013 1.722-2.019-3.406-9.705-9.025-18.368-14.874-26.844-.621-.948-2.116-.34-1.754.666-2.829 2.54-2.639 9.432-2.154 13.403-5.592 2.345-10.045 5.522-13.544 10.524-.703 1.11.064 2.705 1.287 2.702zm15.683-12.501c-.656-3.524.486-6.908.824-10.248 3.96 6.725 7.79 13.479 10.542 20.883-7.915-.124-15.674-1.371-23.618-1.625 3.071-3.274 6.922-5.5 11.278-7.295.935-.074 1.149-.938.974-1.715zm-39.5 1.536l25.888-5.82c1.294-.291 1.622-1.86.871-2.779-5.053-6.751-10.236-13.472-15.089-20.54-.592-.819-1.598-.457-1.841.278-.563-.689-1.958-.24-1.725.796.73 4.459 1.908 9.09.451 13.497-1.486 4.278-6.874 7.529-10.379 10.084-.819.592-.615 1.498-.081 2.058-.414 1.181.352 2.776 1.906 2.427zm11.493-13.598c1.774-4.206.005-9.656-1.243-13.999 3.542 6.682 7.932 12.903 12.423 18.964l-19.804 4.453c3.534-2.426 6.952-5.37 8.625-9.418zM7.077 38.931c8.313-1.733 16.584-3.049 24.39-6.435 1.107-.521 1.175-2.032.453-2.822-5.021-5.398-9.712-11.143-15.093-16.324-.346-.33-.764-.372-1.152-.285-.463-.848-2.116-.34-1.754.666 1.028 2.76.992 5.624 1.086 8.459.122 2.964.064 2.705-2.075 4.682-2.369 2.165-5.699 5.497-7.159 8.681-1.537 1.025-.768 3.844 1.303 3.378zm10.806-11.813c.46-.375.602-.951.486-1.469-.711-2.559-.805-5.394-1.257-8.012 3.407 4.266 6.972 8.631 10.608 12.709-5.492 2.186-11.375 3.237-17.228 4.417.201-.317.531-.663.732-.98 1.864-2.595 4.075-4.86 6.66-6.665z"/></svg>
     </span>
   </h2>
-  <img src="assets/img/landing/digital-agency/cover.jpg" alt="Team cover" class="rounded-3">
+  <img src="../assets/img/landing/digital-agency/cover.jpg" alt="Team cover" class="rounded-3">
 </section>
 
 
@@ -453,25 +453,25 @@
       <div class="row row-cols-sm-4 row-cols-2 gy-4">
         <div class="col">
           <div class="position-relative text-center">
-            <img src="assets/img/landing/digital-agency/awards/webby.svg" width="100" alt="Webby" class="d-block mx-auto mb-3">
+            <img src="../assets/img/landing/digital-agency/awards/webby.svg" width="100" alt="Webby" class="d-block mx-auto mb-3">
             <a href="#" class="text-body justify-content-center fs-sm stretched-link text-decoration-none">4x mobile of the day</a>
           </div>
         </div>
         <div class="col">
           <div class="position-relative text-center">
-            <img src="assets/img/landing/digital-agency/awards/cssda.svg" width="100" alt="CSSDA" class="d-block mx-auto mb-3">
+            <img src="../assets/img/landing/digital-agency/awards/cssda.svg" width="100" alt="CSSDA" class="d-block mx-auto mb-3">
             <a href="#" class="text-body justify-content-center fs-sm stretched-link text-decoration-none">1x Kudos</a>
           </div>
         </div>
         <div class="col">
           <div class="position-relative text-center">
-            <img src="assets/img/landing/digital-agency/awards/awwwards.svg" width="100" alt="Awwwards" class="d-block mx-auto mb-3">
+            <img src="../assets/img/landing/digital-agency/awards/awwwards.svg" width="100" alt="Awwwards" class="d-block mx-auto mb-3">
             <a href="#" class="text-body justify-content-center fs-sm stretched-link text-decoration-none">3x website of the day</a>
           </div>
         </div>
         <div class="col">
           <div class="position-relative text-center">
-            <img src="assets/img/landing/digital-agency/awards/fwa.svg" width="100" alt="FWA" class="d-block mx-auto mb-3">
+            <img src="../assets/img/landing/digital-agency/awards/fwa.svg" width="100" alt="FWA" class="d-block mx-auto mb-3">
             <a href="#" class="text-body justify-content-center fs-sm stretched-link text-decoration-none">2x best website</a>
           </div>
         </div>
@@ -497,7 +497,7 @@
             <a href="#" class="btn btn-icon btn-light bg-white border-white btn-sm rounded-circle position-absolute top-0 end-0 zindex-5 me-3 mt-3" data-bs-toggle="tooltip" data-bs-placement="left" title="Read later">
               <i class="bx bx-bookmark"></i>
             </a>
-            <img src="assets/img/landing/digital-agency/blog/01.jpg" class="card-img-top" alt="Image">
+            <img src="../assets/img/landing/digital-agency/blog/01.jpg" class="card-img-top" alt="Image">
           </div>
           <div class="card-body pb-4">
             <div class="d-flex align-items-center justify-content-between mb-3">
@@ -510,7 +510,7 @@
           </div>
           <div class="card-footer py-4">
             <div class="d-inline-flex align-items-center position-relative me-3">
-              <img src="assets/img/avatar/10.jpg" class="rounded-circle me-3" width="48" alt="Avatar">
+              <img src="../assets/img/avatar/10.jpg" class="rounded-circle me-3" width="48" alt="Avatar">
               <div>
                 <a href="#" class="nav-link p-0 fw-bold text-decoration-none stretched-link">Jerome Bell</a>
                 <span class="fs-sm text-muted">Marketing Specialist</span>
@@ -542,7 +542,7 @@
                 <hr class="my-4">
                 <div class="d-flex flex-sm-nowrap flex-wrap align-items-center justify-content-between">
                   <div class="d-flex align-items-center position-relative me-3">
-                    <img src="assets/img/avatar/08.jpg" class="rounded-circle me-3" width="48" alt="Avatar">
+                    <img src="../assets/img/avatar/08.jpg" class="rounded-circle me-3" width="48" alt="Avatar">
                     <div>
                       <a href="#" class="nav-link p-0 fw-bold text-decoration-none stretched-link">Annette Black</a>
                       <span class="fs-sm text-muted">Product Manager</span>
@@ -589,7 +589,7 @@
                 <hr class="my-4">
                 <div class="d-flex flex-sm-nowrap flex-wrap align-items-center justify-content-between">
                   <div class="d-flex align-items-center position-relative me-3">
-                    <img src="assets/img/avatar/09.jpg" class="rounded-circle me-3" width="48" alt="Avatar">
+                    <img src="../assets/img/avatar/09.jpg" class="rounded-circle me-3" width="48" alt="Avatar">
                     <div>
                       <a href="#" class="nav-link p-0 fw-bold text-decoration-none stretched-link">Marvin McKinney</a>
                       <span class="fs-sm text-muted">Senior UI/UX Designer</span>
