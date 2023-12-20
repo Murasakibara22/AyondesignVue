@@ -34,7 +34,6 @@
           <div class="row">
             <article
               class="col-lg-4 col-md-6 col-sm-12 mb-3 card h-100 overflow-hidden border-0 shadow-sm"
-              v-if="list_service"
               v-on:load="list_service"
               v-for="serviceList of list_service"
               :key="serviceList.id"
